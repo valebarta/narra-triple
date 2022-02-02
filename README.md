@@ -1,3 +1,1 @@
-"# narra-triple" 
-"# narra-triple" 
-"# narra-triple" 
+### Use Java 1.8 compiler in Project properties ###
